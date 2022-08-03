@@ -1,16 +1,45 @@
-**About Addison!**
+Hi there, I am Addison! I am a Roblox developer.
 
-*Hi there! I am Addison, but you can call me Addy! I am a still-learning developer that mainly knows CSS and HTML. I also know some Luau.
-Something about me is that I am transgender. I love video games. I also love anime and music.*
+__My skills__
 
-__**Favorite Music**__
+> HTML (Advanced Knowledge)
 
-*Personally, I really like any music as long as it is good. One of my favorite bands are 5 Seconds Until Summer.*
+> CSS (Advanced Knowledge)
 
-__**Favorite Food**__
+> JavaScipt (Early Learning)
 
-*My favorite food is probably calamari.*
+> Python (Early Learning)
 
-__**Favorite Game**__
+__What I do for a living__
 
-*If I had to choose a favorite game, I would choose Roblox. It is pretty fun and for all ages.*
+I develop games for a living.
+
+__Games I have contributed to__
+
+Stargate Expeditions
+  https://www.roblox.com/groups/8319574/Stargate-Program-SGE#!/about
+
+Green Mountain Cafe & Restaurant
+  https://www.roblox.com/groups/11003086/GreenMountain-Cafe-Restaurant#!/about
+
+Redacted Studios
+  https://www.roblox.com/groups/9806138/Redacted-Studios-Special-Containment-Procedures#!/about
+
+Stargate: Realm
+  https://www.roblox.com/groups/14621690/Stargate-Realm#!/about
+
+Slender: The Seven Symbols
+  https://www.roblox.com/groups/12900069/Slender-The-Seven-Symbols#!/about
+
+Runelight Studios
+  https://www.roblox.com/groups/14248889/Runelight-Studios#!/about
+
+__Am I currently for hire?__
+
+As of right now, I am not currently for hire. Although, if I am then this page will update displaying I am for hire.
+
+__How to contant me__
+
+You may contact me by adding me on Discord @ Addy!#0001.
+
+Feel free to also check out my friends github! https://github.com/Cyntiiza
