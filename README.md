@@ -10,6 +10,8 @@ __My skills__
 
 > Python (Early Learning)
 
+> Builder (Expert Level Knowledge)
+
 __What I do for a living__
 
 I develop games for a living.
