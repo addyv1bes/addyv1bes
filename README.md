@@ -48,7 +48,7 @@ These are the groups I have worked for during my development history. My positio
 If you wish to contact me for hiring or more information, refer to my contact information below. Please make sure to follow the format too.
 
 * Discord
-> corvusbleh
+> corvusisdumbsadly
 
 * Email
 > laeecypoo@gmail.com
@@ -60,4 +60,4 @@ As of right now, I am currently for hire. If you wish to hire me, please refer t
 My availability changes from time to time, however I work when I am free to do so.
 
 ##### Change Status
-This page has been last updated on 07/30/23.
+This page has been last updated on 09/26/2023.
