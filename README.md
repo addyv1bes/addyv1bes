@@ -4,7 +4,7 @@ Hiya, I am cutiehrts, UI/UX developer with over one year of experience.
 Have you ever wanted to see what your game looks like with a better design? Wether you are looking for better interactions, menus, tabs, screens, I can most definetly create that design for you. I design UIs based off of the lore or description you provide me. Take a look at the information provided below! You will be impressed by my work.
 
 ### Groups I have worked for
-These are the groups I have worked for during my development history. My position varies, so I will mention what my role was within the group.
+These are the groups I have worked for during my development history.
 
 * ARC-478
 > Architecture | 2023 - 2023
