@@ -1,9 +1,9 @@
 # My Porfolio
 
-Hiya, I am cutiehrts, UI/UX developer with over one year of experience.
-Have you ever wanted to see what your game looks like with a better design? Wether you are looking for better interactions, menus, tabs, screens, I can most definetly create that design for you. I design UIs based off of the lore or description you provide me. Take a look at the information provided below! You will be impressed by my work.
+Hiya, I am cutiehrts, UI/UX and Web developer with over one year of experience.
+Have you ever wanted to see what your game looks like with a better design? Wether you are looking for better interactions, menus, tabs, screens, websites, I can most definetly create that design for you. I design UIs based off of the lore or description you provide me. Take a look at the information provided below! You will be impressed by my work.
 
-### Groups I have worked for
+### Groups I have worked for (ROBLOX)
 These are the groups I have worked for during my development history.
 
 * ARC-478
@@ -20,6 +20,9 @@ These are the groups I have worked for during my development history.
 
 * Cobalt Industries
 > UI | 2023 - 2024
+
+* Chocolatiez
+> Web Engineer | 2024 - Present
 
 
 
@@ -39,4 +42,4 @@ As of right now, I am currently not for hire.
 My availability changes from time to time, however I work when I am free to do so.
 
 ##### Change Status
-This page has been last updated on 05/12/2024.
+This page has been last updated on 06/03/2024.
