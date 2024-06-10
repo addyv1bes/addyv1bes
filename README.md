@@ -1,41 +1,45 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Kat!
+# My Porfolio
 
-:school: Currently studying Cyber Security @ Johnson County Community College, KS</br>
-:fountain_pen: I have a passion for listening to music</br>
-:computer: I love PC building and computer hardware</br>
-:video_game: I'm an avid gamer</br>
-:pushpin: Fun fact: I don't live pizza</br>
-:mailbox: How to reach me: <a href="mailto:passedoutsober@gmail.com">passedoutsober@gmail.com</a>
+Hiya, I am cutiehrts, UI/UX and Web developer with over one year of experience.
+Have you ever wanted to see what your game looks like with a better design? Wether you are looking for better interactions, menus, tabs, screens, websites, I can most definetly create that design for you. I design UIs based off of the lore or description you provide me. Take a look at the information provided below! You will be impressed by my work.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=addyv1bes&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kat's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyv1bes&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+### Groups I have worked for (ROBLOX)
+These are the groups I have worked for during my development history.
 
-## Languages and Tools:
-<div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png">&nbsp;
-  <img width=50px src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png?f=webp">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png">&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png">&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png">&nbsp;
-  <img width=50px src="https://cdn-icons-png.flaticon.com/512/25/25231.png">&nbsp;
-  <img width=50px src="https://static.vecteezy.com/system/resources/thumbnails/020/975/574/small/window-10-logo-window-10-icon-transparent-free-png.png">&nbsp;
-  <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
-</div>
+* ARC-478
+> Architecture | 2023 - 2023
 
-</br>
+* Runelight Studios
+> Architecture, UI/UX | Shutdown
 
-## My Workspace:
-<img height=40 src="https://img.shields.io/badge/WINDOWS-blue?logo=windows"></br>
-<img height=40 src="https://img.shields.io/badge/AMD_Ryzen_5_5500-orange?logo=AMD"></br>
-<img height=40 src="https://img.shields.io/badge/GeForce_GTX_1650-white?logo=NVIDIA&color=000000"></br>
-<img height=40 src="https://img.shields.io/badge/Toshiba_512GB-white?logo=Toshiba&color=000000"></br>
-<img height=40 src="https://img.shields.io/badge/Toshiba_913GB-white?logo=Toshiba&color=000000"></br>
-<img height=40 src="https://img.shields.io/badge/Toshiba_298GB-white?logo=Toshiba&color=000000"></br>
+* The Stargate Program
+> Development Overseer, UI/UX, Architecture | 2020 - 2023
 
----
+* Armed Forces and the People United
+> UI/UX | 2023 - 2024
 
-## Connect with me:
-<img height=40 src="https://img.shields.io/badge/My_Discord_Profile-white?logo=Discord&color=000000&link=https%3A%2F%2Fdiscord.gg%2FBt54gxK9"></br>
+* Cobalt Industries
+> UI | 2023 - 2024
+
+* Chocolatiez
+> Web Engineer | 2024 - Present
+
+
+
+### My Contacts
+If you wish to contact me for hiring or more information, refer to my contact information below. Please make sure to follow the format too.
+
+* Discord
+> passedoutsober_
+
+* Email
+> laeecypoo@gmail.com
+
+### Hiring Status
+As of right now, I am currently not for hire.
+
+### Availability
+My availability changes from time to time, however I work when I am free to do so.
+
+##### Change Status
+This page has been last updated on 06/03/2024.
