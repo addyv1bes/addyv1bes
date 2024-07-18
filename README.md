@@ -5,7 +5,8 @@
 :fountain_pen: I have a passion for listening to music</br>
 :computer: I love PC building and computer hardware</br>
 :video_game: I'm an avid gamer</br>
-:pushpin: Fun fact: I don't live pizza</br>
+:pushpin: Fun fact: I don't like pizza</br>
+:1st_place_medal: I have over 2 years of experience with web development.
 :mailbox: How to reach me: <a href="mailto:passedoutsober@gmail.com">passedoutsober@gmail.com</a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=addyv1bes&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kat's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyv1bes&theme=github_dark&layout=compact&hide_border=true" /></a> |
