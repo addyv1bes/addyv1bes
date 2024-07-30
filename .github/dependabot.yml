@@ -1,6 +1,0 @@
-version: 2
-updates:
-  - package-ecosystem: "composer"
-    directory: "/README.md"
-    schedule:
-      interval: "daily"
