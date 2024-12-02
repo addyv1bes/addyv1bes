@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Kat!
 
-Just a little brief summary of who I am! I am a transgender female (AMAB), 18 years old, studying Cyber Security & Computer Informations. I have over 2 years of experience with web development, and I am strongly confident I could improve more.
+Just a little brief summary of who I am! I am 19 years old, studying Cyber Security & Computer Informations. I have over 2 years of experience with web development, and I am strongly confident I could improve more.
 
-:school: Currently studying Cyber Security @ Johnson County Community College, KS</br>
+:school: Currently studying Cyber Security at a Community College in USA.</br>
 :fountain_pen: I have a passion for listening to music</br>
 :computer: I love PC building and computer hardware</br>
 :video_game: I'm an avid gamer</br>
@@ -36,8 +36,3 @@ Just a little brief summary of who I am! I am a transgender female (AMAB), 18 ye
 <img height=40 src="https://img.shields.io/badge/Toshiba_512GB-white?logo=Toshiba&color=000000"></br>
 <img height=40 src="https://img.shields.io/badge/Toshiba_913GB-white?logo=Toshiba&color=000000"></br>
 <img height=40 src="https://img.shields.io/badge/Toshiba_298GB-white?logo=Toshiba&color=000000"></br>
-
----
-
-## Connect with me:
-<img height=40 src="https://img.shields.io/badge/My_Discord_Profile-white?logo=Discord&color=000000&link=https%3A%2F%2Fdiscord.gg%2FBt54gxK9"></br>
