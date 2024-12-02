@@ -10,7 +10,7 @@ Just a little brief summary of who I am! I am 19 years old, studying Cyber Secur
 :pushpin: Fun fact: I don't like pizza</br>
 :mailbox: How to reach me: <a href="mailto:passedoutsober@gmail.com">passedoutsober@gmail.com</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=addyv1bes&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kat's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addyv1bes&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=urfavkat&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kat's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urfavkat&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Languages and Tools:
